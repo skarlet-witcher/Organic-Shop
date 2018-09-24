@@ -1,0 +1,20 @@
+<bs-navbar></bs-navbar>
+
+<main role="main" class="container">
+
+  <router-outlet></router-outlet>
+</main>
+
+<script src="https://www.gstatic.com/firebasejs/5.0.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCai46Japjm5ROhPjiAP5mDQEMeRXtMP8c",
+    authDomain: "oshop-ad716.firebaseapp.com",
+    databaseURL: "https://oshop-ad716.firebaseio.com",
+    projectId: "oshop-ad716",
+    storageBucket: "oshop-ad716.appspot.com",
+    messagingSenderId: "358535341080"
+  };
+  firebase.initializeApp(config);
+</script>
