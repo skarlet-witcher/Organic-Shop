@@ -4,7 +4,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. I used **firebase** to support the project in the backend. <br>
 
-**Mosh Hamedani's website**: https://codewithmosh.com/
+**Mosh Hamedani's website**: https://codewithmosh.com/ <br>
 **Firebase Link**: https://oshop-ad716.firebaseio.com/
 
 ## Development server
