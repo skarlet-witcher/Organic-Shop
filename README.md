@@ -1,10 +1,7 @@
 # Organic-Shop
 
-**First of all, i would like to be strongly grateful for Mosh Hamedani's tutorial to help me finish the project and learn Angular.** <br>
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. I used **firebase** to support the project in the backend. <br>
 
-**Mosh Hamedani's website**: https://codewithmosh.com/ <br>
 **Firebase Link**: https://oshop-ad716.firebaseio.com/
 
 ## Development server
@@ -57,3 +54,7 @@ Also the firebase will be inserted a new item. <br>
 <img width="960" alt="_20180927204404" src="https://user-images.githubusercontent.com/26427743/46170591-1780cc80-c296-11e8-885e-7b98e8f6c7b8.png">
 #### Edit Product
 click one edit link in the manage product and change the parmeters of the product. The product will be updated on the app.
+
+## References
+I would like to be strongly grateful for Mosh Hamedani's tutorial to help me finish the project and learn Angular. <br>
+**Mosh Hamedani's website**: https://codewithmosh.com/ <br>
