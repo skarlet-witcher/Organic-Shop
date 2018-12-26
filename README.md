@@ -55,6 +55,3 @@ Also the firebase will be inserted a new item. <br>
 #### Edit Product
 click one edit link in the manage product and change the parmeters of the product. The product will be updated on the app.
 
-## References
-**I would like to be strongly grateful for Mosh Hamedani's tutorial to help me finish the project and learn Angular.** <br>
-**Mosh Hamedani's website**: https://codewithmosh.com/ <br>
